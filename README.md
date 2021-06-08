@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avocami
+- 👋 Hi, I’m Camelia Ignat
 - 👀 I’m an AI Engineering student
 - 🌱 I’m currently learning Python, ML, and different programming languages
 - 📫 You can reach me at cignat70@gmail.com, or on Instagram @cami.ignat
